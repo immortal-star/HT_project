@@ -3,7 +3,7 @@
 import './App.css'
 import Aboutus from './components/Aboutus'
 import { BentoGridDemo } from './components/Bentogrid'
-import NavBar from './components/NavBar'
+import NavBar from './components/Navbar'
 
 import HeroPage from './ui/HeroPage'
 
